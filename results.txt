@@ -1,0 +1,6 @@
+=== Branch Prediction Statistics ===
+Total Branches                : 27772333
+Mispredictions                : 16205160
+Misprediction Rate (%)        : 48.35
+MPKI (mispredictions per 1000 instrs): 483.5
+H2P_COUNTER                   : 27772333
